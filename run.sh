@@ -1,0 +1,1 @@
+python main.py --root_dir /home/jovyan/qrcode-single-detection/0718_detection --save_path /home/jovyan/qrcode-single-detection/0718_processed
